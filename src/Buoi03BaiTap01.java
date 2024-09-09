@@ -11,7 +11,6 @@ public class Buoi03BaiTap01 {
             result +=i;
         }
         System.out.println("Result = " + result);
-        // sdkfjlasdfjlaksdfasdfasdfasdfasfasfd
 
     }
 }
